@@ -11,3 +11,6 @@ Ventajas:
 Desventajas:
 - Hay problemas cuando se tienen usuarios que tienen seleccionadas pocas peliculas
 - Puede haber dificultad para encontrar vecinos relevantes
+
+## Pregunta 2
+**La respuesta esta en el archivo SisRec_KNN.ipynb**
